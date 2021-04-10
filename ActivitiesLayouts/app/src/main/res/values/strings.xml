@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities&amp;Layouts</string>
+    <string name="avatarimage">AvatarImage</string>
+    <string name="weightimage">WeightImage</string>
+    <string name="textview">AvatarImage</string>
+    <string name="kg_image">KG Image</string>
+</resources>
